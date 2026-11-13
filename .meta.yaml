@@ -1,3 +1,4 @@
 name: "Swift"
+maintainer: "@rasmusbe"
 spec: 1.1
 workflow: "swift.yml"
