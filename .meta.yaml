@@ -1,0 +1,3 @@
+name: "Swift"
+spec: 1.1
+workflow: "swift.yml"
