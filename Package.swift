@@ -8,7 +8,7 @@ let package = Package(
         .library(name: "Organisationsnummer", targets: ["Organisationsnummer"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/personnummer/swift.git", branch: "main"),
+        .package(url: "https://github.com/personnummer/swift.git", from: "3.0.0"),
     ],
     targets: [
         .target(
